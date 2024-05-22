@@ -1,3 +1,3 @@
 # mlops-zoomcamp
 
-This is just an example
+This is MLOpsZoomCamp materials
