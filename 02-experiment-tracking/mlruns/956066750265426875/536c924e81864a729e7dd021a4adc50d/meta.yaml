@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/Rustem/2_Education/7_Data_science/6_MLOps/02-experiment-tracking/mlruns/956066750265426875/536c924e81864a729e7dd021a4adc50d/artifacts
+end_time: 1718342238413
+entry_point_name: ''
+experiment_id: '956066750265426875'
+lifecycle_stage: active
+run_id: 536c924e81864a729e7dd021a4adc50d
+run_name: spiffy-auk-273
+run_uuid: 536c924e81864a729e7dd021a4adc50d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718342238339
+status: 4
+tags: []
+user_id: rkizm

@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/Rustem/2_Education/7_Data_science/6_MLOps/02-experiment-tracking/mlruns/956066750265426875/ff5823631bc24a9eba4b159495697977/artifacts
+end_time: 1718339823931
+entry_point_name: ''
+experiment_id: '956066750265426875'
+lifecycle_stage: active
+run_id: ff5823631bc24a9eba4b159495697977
+run_name: classy-sow-272
+run_uuid: ff5823631bc24a9eba4b159495697977
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718339699757
+status: 3
+tags: []
+user_id: rkizm

@@ -1,0 +1,16 @@
+artifact_uri: file:///d:/Rustem/2_Education/7_Data_science/6_MLOps/02-experiment-tracking/mlruns/956066750265426875/fc1a643e937849a480b419c493a262ed/artifacts
+deleted_time: 1718339171778
+end_time: 1718339077667
+entry_point_name: ''
+experiment_id: '956066750265426875'
+lifecycle_stage: deleted
+run_id: fc1a643e937849a480b419c493a262ed
+run_name: powerful-smelt-65
+run_uuid: fc1a643e937849a480b419c493a262ed
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718339077582
+status: 4
+tags: []
+user_id: rkizm

@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/Rustem/2_Education/7_Data_science/6_MLOps/02-experiment-tracking/mlruns/956066750265426875/e18fc88597234b328a124f6426b3919f/artifacts
+end_time: 1718342036224
+entry_point_name: ''
+experiment_id: '956066750265426875'
+lifecycle_stage: active
+run_id: e18fc88597234b328a124f6426b3919f
+run_name: mysterious-snail-609
+run_uuid: e18fc88597234b328a124f6426b3919f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718341577421
+status: 3
+tags: []
+user_id: rkizm

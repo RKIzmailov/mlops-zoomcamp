@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/Rustem/2_Education/7_Data_science/6_MLOps/02-experiment-tracking/mlruns/956066750265426875/3013cee074694fc898ed3297a86a683a/artifacts
+end_time: 1718341577397
+entry_point_name: ''
+experiment_id: '956066750265426875'
+lifecycle_stage: active
+run_id: 3013cee074694fc898ed3297a86a683a
+run_name: bouncy-goose-801
+run_uuid: 3013cee074694fc898ed3297a86a683a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718340993119
+status: 3
+tags: []
+user_id: rkizm

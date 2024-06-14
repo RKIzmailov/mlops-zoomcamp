@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/Rustem/2_Education/7_Data_science/6_MLOps/02-experiment-tracking/mlruns/956066750265426875/99c40c70fe7e42e0af09d0a476c977fd/artifacts
+end_time: 1718339547731
+entry_point_name: ''
+experiment_id: '956066750265426875'
+lifecycle_stage: active
+run_id: 99c40c70fe7e42e0af09d0a476c977fd
+run_name: sassy-asp-749
+run_uuid: 99c40c70fe7e42e0af09d0a476c977fd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718339517854
+status: 3
+tags: []
+user_id: rkizm

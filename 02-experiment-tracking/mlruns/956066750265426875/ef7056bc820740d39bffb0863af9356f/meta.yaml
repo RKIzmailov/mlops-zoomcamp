@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/Rustem/2_Education/7_Data_science/6_MLOps/02-experiment-tracking/mlruns/956066750265426875/ef7056bc820740d39bffb0863af9356f/artifacts
+end_time: 1718342053240
+entry_point_name: ''
+experiment_id: '956066750265426875'
+lifecycle_stage: active
+run_id: ef7056bc820740d39bffb0863af9356f
+run_name: merciful-conch-108
+run_uuid: ef7056bc820740d39bffb0863af9356f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718342036267
+status: 4
+tags: []
+user_id: rkizm

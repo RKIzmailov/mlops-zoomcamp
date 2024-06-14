@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/Rustem/2_Education/7_Data_science/6_MLOps/02-experiment-tracking/mlruns/956066750265426875/939f3cb731d1409f8209f1db6c02df82/artifacts
+end_time: 1718339218793
+entry_point_name: ''
+experiment_id: '956066750265426875'
+lifecycle_stage: active
+run_id: 939f3cb731d1409f8209f1db6c02df82
+run_name: enchanting-goat-49
+run_uuid: 939f3cb731d1409f8209f1db6c02df82
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718339141632
+status: 3
+tags: []
+user_id: rkizm
