@@ -1,0 +1,16 @@
+artifact_uri: file:///d:/Rustem/2_Education/7_Data_science/6_MLOps/02-experiment-tracking/mlruns/956066750265426875/204708639e4a4f4887369e7061821728/artifacts
+deleted_time: 1718406932783
+end_time: 1718405143496
+entry_point_name: ''
+experiment_id: '956066750265426875'
+lifecycle_stage: deleted
+run_id: 204708639e4a4f4887369e7061821728
+run_name: delicate-cub-458
+run_uuid: 204708639e4a4f4887369e7061821728
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718405040372
+status: 4
+tags: []
+user_id: rkizm

@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/Rustem/2_Education/7_Data_science/6_MLOps/02-experiment-tracking/mlruns/956066750265426875/206a5a77731f44198496dbe076d54054/artifacts
+end_time: 1718407017156
+entry_point_name: ''
+experiment_id: '956066750265426875'
+lifecycle_stage: active
+run_id: 206a5a77731f44198496dbe076d54054
+run_name: big-bass-675
+run_uuid: 206a5a77731f44198496dbe076d54054
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718406922658
+status: 3
+tags: []
+user_id: rkizm

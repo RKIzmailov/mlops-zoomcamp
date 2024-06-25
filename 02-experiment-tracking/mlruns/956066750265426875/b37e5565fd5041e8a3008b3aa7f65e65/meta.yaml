@@ -1,0 +1,16 @@
+artifact_uri: file:///d:/Rustem/2_Education/7_Data_science/6_MLOps/02-experiment-tracking/mlruns/956066750265426875/b37e5565fd5041e8a3008b3aa7f65e65/artifacts
+deleted_time: 1718405058992
+end_time: 1718404984168
+entry_point_name: ''
+experiment_id: '956066750265426875'
+lifecycle_stage: deleted
+run_id: b37e5565fd5041e8a3008b3aa7f65e65
+run_name: painted-snake-378
+run_uuid: b37e5565fd5041e8a3008b3aa7f65e65
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718404795990
+status: 4
+tags: []
+user_id: rkizm
